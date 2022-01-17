@@ -5,6 +5,9 @@
 
 I'm Mahmoud Ashour an Experienced Software Engineer with a demonstrated history of working in the media production industry. Skilled in Microsoft Word, Public Speaking, Microsoft Office, Mobile Devices, and Researches. Strong engineering professional with a Bachelor's degree focused in Computer Science from Suez Canal University. 
 
+
+[![Active GitHub User in Egypt Rank 45]](https://commits.top/egypt)   
+
 **Also , I Love Flutter 💙**
 
 [![Linkedin Badge](https://img.shields.io/badge/-MahmoudAshour-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahmoud-ashour/)](https://www.linkedin.com/in/mahmoud-ashour-b04a27174/)
@@ -28,4 +31,16 @@ I'm Mahmoud Ashour an Experienced Software Engineer with a demonstrated history 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeitanteiAshour&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MeitanteiAshour)
+
+
+### My Progress
+
+[comment]: <> (for streak dark theme => &theme=dark || for progress dark theme => &theme=react)
+<p align="center">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=meitanteiashour&theme=dark" alt="streak"/> <br>
+	<a href="https://github.com/meitanteiashour">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=meitanteiashour&show_icons=true&count_private=true&theme=react&include_all_commits=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=meitanteiashour&theme=react&layout=compact"/>
+</a> 
+</p>
 
