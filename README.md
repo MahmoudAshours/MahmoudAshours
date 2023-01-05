@@ -22,20 +22,20 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=MeitanteiAshour&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeitanteiAshour&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=MahmoudAshours&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAshours&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MeitanteiAshour)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MahmoudAshours)
 
 
 ### My Progress
 
 [comment]: <> (for streak dark theme => &theme=dark || for progress dark theme => &theme=react)
 <p align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=meitanteiashour&theme=dark" alt="streak"/> <br>
-	<a href="https://github.com/meitanteiashour">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=meitanteiashour&show_icons=true&count_private=true&theme=react&include_all_commits=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=meitanteiashour&theme=react&layout=compact"/>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudAshours&theme=dark" alt="streak"/> <br>
+	<a href="https://github.com/MahmoudAshours">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MahmoudAshours&show_icons=true&count_private=true&theme=react&include_all_commits=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MahmoudAshours&theme=react&layout=compact"/>
 </a> 
 </p>
 
