@@ -3,11 +3,6 @@
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=grow_out_in&layout=churchill)
 
 
-I'm Mahmoud Ashour an Experienced Software Engineer with a demonstrated history of working in the media production industry. Skilled in Microsoft Word, Public Speaking, Microsoft Office, Mobile Devices, and Researches. Strong engineering professional with a Bachelor's degree focused in Computer Science from Suez Canal University. 
-
-
-[![Active GitHub User in Egypt Rank 45]](https://commits.top/egypt)   
-
 **Also , I Love Flutter 💙**
 
 [![Linkedin Badge](https://img.shields.io/badge/-MahmoudAshour-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahmoud-ashour/)](https://www.linkedin.com/in/mahmoud-ashour-b04a27174/)
