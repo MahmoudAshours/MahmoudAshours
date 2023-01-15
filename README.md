@@ -1,9 +1,5 @@
 ### Hello there! 👋
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=grow_out_in&layout=churchill)
-
-
-**Also , I Love Flutter 💙**
+  
 
 [![Linkedin Badge](https://img.shields.io/badge/-MahmoudAshour-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahmoud-ashour/)](https://www.linkedin.com/in/mahmoud-ashour-b04a27174/)
 
