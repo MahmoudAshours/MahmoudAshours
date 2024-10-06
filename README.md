@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👨‍💻
 
-### Hi there! I'm a Software Engineer at Orange Orange
+### Hi there! I'm a Software Engineer at Orange
 
 I'm passionate about backend development and systems architecture, with experience across various programming languages and databases. I love creating scalable solutions and solving complex problems.
 
