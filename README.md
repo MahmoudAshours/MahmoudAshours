@@ -1,37 +1,48 @@
-### Hello there! 👋
-  
+# Welcome to My GitHub Profile! 👨‍💻
 
-[![Linkedin Badge](https://img.shields.io/badge/-MahmoudAshour-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahmoud-ashour/)](https://www.linkedin.com/in/mahmoud-ashour-b04a27174/)
+### Hi there! I'm a Software Engineer at Orange Orange
 
-[![Gmail Badge](https://img.shields.io/badge/-mashour365@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mashour365@gmail.com)](mailto:mashour365@gmail.com)
+I'm passionate about backend development and systems architecture, with experience across various programming languages and databases. I love creating scalable solutions and solving complex problems.
 
-## ⚡ Technologies
+---
 
-![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=Dart)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=MahmoudAshours&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAshours&hide=TeX&layout=compact)
+## 🛠️ Technologies & Tools
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MahmoudAshours)
+### Programming Languages
+- ![Go Badge](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+- ![Java Badge](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+- ![PHP Badge](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+- ![Dart Badge](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
+### Databases
+- ![MySQL Badge](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- ![MongoDB Badge](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+- ![Firestore Badge](https://img.shields.io/badge/Firestore-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)
+- ![Neo4j Badge](https://img.shields.io/badge/Neo4j-%2300BFFF.svg?style=for-the-badge&logo=neo4j&logoColor=white)
+- ![TimesTen Badge](https://img.shields.io/badge/TimesTen-orange?style=for-the-badge)
 
-### My Progress
+### Tools & Platforms
+- ![ElasticSearch Badge](https://img.shields.io/badge/Elasticsearch-%23005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
+- ![Kibana Badge](https://img.shields.io/badge/Kibana-%23005571.svg?style=for-the-badge&logo=kibana&logoColor=white)
+- ![Kafka Badge](https://img.shields.io/badge/Kafka-%23121D54.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
+- ![Logstash Badge](https://img.shields.io/badge/Logstash-%23121D54.svg?style=for-the-badge&logo=logstash&logoColor=white)
 
-[comment]: <> (for streak dark theme => &theme=dark || for progress dark theme => &theme=react)
-<p align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudAshours&theme=dark" alt="streak"/> <br>
-	<a href="https://github.com/MahmoudAshours">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MahmoudAshours&show_icons=true&count_private=true&theme=react&include_all_commits=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MahmoudAshours&theme=react&layout=compact"/>
-</a> 
-</p>
+---
+
+## 🔭 Currently Working On
+I’m currently building a **Telecom system middleware in Golang** that integrates with various services and databases.
+
+---
+
+## 🌱 Learning
+I'm deepening my skills in **system architecture** and exploring advanced features in **Golang** and **distributed systems**.
+
+---
+
+## 📫 Connect with Me
+
+- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoudashours)
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=mahmoudashours&color=blue)
 
