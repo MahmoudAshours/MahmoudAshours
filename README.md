@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👨‍💻
 
-### Hi there! I'm a Software Engineer @ Orange
+### Hi there! I'm a Software Engineer @ Midade| ex-Orange
 
 I'm passionate about backend development and systems architecture, with experience across various programming languages and databases. I love creating scalable solutions and solving complex problems.
 
@@ -34,19 +34,16 @@ I'm passionate about backend development and systems architecture, with experien
 ---
 
 ## 🔭 Currently Working On
-I’m currently building a **Telecom system middleware in Golang** that integrates with various services and databases.
+I’m currently building **Qasr** which is a **URL Shortener** tool. [here](https://github.com/MahmoudAshours/qasr)
 
 ---
 
 ## 🌱 Learning
-I'm deepening my skills in **system architecture** and exploring advanced features in **Golang** and **distributed systems**.
+I'm deepening my skills in **system architecture** and exploring advanced features in **Golang** and **distributed systems**. Also deep diving into the world of **LLMS** and **Generative AI**
 
 ---
 
 ## 📫 Connect with Me
 
 - [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoudashours)
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=mahmoudashours&color=blue)
 
